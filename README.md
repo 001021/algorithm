@@ -1,1 +1,1 @@
-# python-coding-test
+# Algorithm for Coding Test
